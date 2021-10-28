@@ -1,6 +1,13 @@
 # SUYEON CHOI
 _for Web Programmer_
 
+**Hi there! 👋 I'm web, app developer using spring framework and android.**   
+I'm going to learn react, node.js, vue.js for frontend.  
+I enjoy exercise including swimming. 
+
+
+### Skills
+
 **Platfroms & Languages**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -10,13 +17,22 @@ _for Web Programmer_
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  
 
 **Tools**  
-
-  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
+**Database**  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+
+**Server**  
+<img src="https://img.shields.io/badge/Amazon EC2-232F3E?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S2-6DB33F?style=flat-square&logo=Amazon S2&logoColor=white"/>
 
 
 
-### Hi there 👋
+ 
 <!--
 **suyeonChoi7807/suyeonChoi7807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
