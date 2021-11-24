@@ -1,9 +1,7 @@
 # SUYEON CHOI
 _for Web Programmer_
 
-**Hi there! 👋 I'm web, app developer using spring framework and android.**   
-I'm going to learn react, node.js, vue.js for frontend.  
-I enjoy exercise including swimming. 
+**Hi there! 👋 I'm web, app developer using spring boot and android.**   
 
 
 ### Skills
