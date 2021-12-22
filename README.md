@@ -1,11 +1,19 @@
-# SUYEON CHOI
-_for Web Programmer_
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SUYEON&fontSize=80)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsuyeonChoi7807&count_bg=%2379C83D&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+_for Web Programmer_  
 
-**Hi there! 👋 I'm web, app developer using spring boot and android.**   
+*Hi there! 👋 I'm web, app developer using spring boot and android.*
+---
 
 
-### Skills
-
+💙 SNS list 💙 
+   
+<a href="https://blog.naver.com/suyeon2205" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="http://qr.kakao.com/talk/yWXXjC82SD_kjHI7tR1QvMipfO8-" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
+<a href="https://www.instagram.com/01x20sy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+   
+💙Tech Stack💙   
+   
 **Platfroms & Languages**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -25,7 +33,7 @@ _for Web Programmer_
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
 
+![sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeonChoi7807&show_icons=true&theme=radical)  
+[![sy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonChoi7807&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/suyeonChoi7807)
 
-
- 
-![sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeonChoi7807&show_icons=true&theme=radical)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=0,2,2,5,30))
