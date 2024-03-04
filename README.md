@@ -47,4 +47,4 @@ _for Web Programmer_
 ![sy's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeonChoi7807&show_icons=true&theme=radical)  
 [![sy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonChoi7807&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/suyeonChoi7807)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=0,2,2,5,30))
+![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=0,2,2,5,30)
